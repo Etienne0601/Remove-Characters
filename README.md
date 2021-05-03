@@ -1,1 +1,9 @@
 # Remove-Characters
+
+This is just a simple program to remove characters from a string.
+
+Usage:
+
+`remove-chars [chars] [inFile] [outFile]`
+
+You should be able to just clone the repo and compile using `make`
