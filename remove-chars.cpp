@@ -109,7 +109,7 @@ int main(int argc, char** argv) {
                 
                 // we can first do the name of the website/app
                 print_section(itr, end, toWrite);
-                toWrite.put(',');
+                toWrite.put(';');
                 int countPipes = 1;
 
                 // iterate through sections of the line stored in lineStr
