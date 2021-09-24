@@ -1,6 +1,6 @@
 # Remove-Characters
 
-This is just a simple program to remove characters from a string.
+This is just a simple program to remove characters from a text file.
 
 Usage:
 
